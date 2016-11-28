@@ -5,9 +5,11 @@
 .carousel-cell {
     color:white;
     height: 100%;
-    margin-right: 10px;
+    margin-right: 0px!important;
     min-height: 750px;
-    width: 101%;
+    width: 100%;
+    width: 100vw;
+    overflow-x: hidden;
 }
 .carousel-wrap {
 
