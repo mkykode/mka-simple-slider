@@ -29,7 +29,7 @@ define( 'PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 /**
  * Initialize slider class. Check if doesn't exist.
  */
-if ( ! function_exists( 'slider_simple_init' ) ) :
+if ( ! function_exists( 'simple_slider_init' ) ) :
 	/**
 	 * Init function.
 	 */
